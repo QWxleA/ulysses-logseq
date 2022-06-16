@@ -1,0 +1,2 @@
+- A _fubsy_ window? A short and stocky window.
+	- [Saving Fubsy from Lexicographical Caliginosity – Scripturient](http://ianchadwick.com/blog/saving-fubsy-from-lexicographical-caliginosity/)

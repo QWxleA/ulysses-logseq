@@ -1,2 +1,3 @@
 - Stephen’s inner critical voice mimics a comment of [John Dryden](https://en.wikipedia.org/wiki/John_Dryden) to his cousin [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift)
-- Religiously and politically opposed, Dryden said ‘Cousin Swift, you will never be a poet’.
+- Religiously and politically opposed, Dryden said ‘Cousin Swift, [you will never be a poet’](https://www.theguardian.com/books/2008/jun/11/jonathanswift#:~:text=According%20to%20Dr%20Johnson%2C%20Dryden,your%20works%2C%20the%20more%20I).
+	-
