@@ -5,6 +5,7 @@
 		- {{youtube-timestamp 192}} He knows, but doesn't divulge!
 		- {{youtube-timestamp 213}} First challenging episode.
 		- {{youtube-timestamp 237}} Musical intermission: Alerta!
+		  id:: 62ab407c-21d1-4086-8343-9a55b3f39548
 		- {{youtube-timestamp 264}} What are they talking about? -> shapeshifting non-divulger, it's not you
 		- {{youtube-timestamp 330}} Space & time
 		- {{youtube-timestamp 420}} Stephen is smart, confusing inside his head.
@@ -48,12 +49,12 @@
 - —No, uncle Richie...
 - —Call me Richie. Damn your lithia water. It lowers. Whusky!
 - —Uncle Richie, really...
-- —Sit down or by the law Harry I’ll knock you down.
+- —Sit down or by the [[law Harry]] I’ll knock you down.
 - Walter squints vainly for a chair.
 - —He has nothing to sit down on, sir.
-- —He has nowhere to put it, you mug. Bring in our chippendale chair. Would you like a bite of something? None of your damned lawdeedaw airs here. The rich of a rasher fried with a herring? Sure? So much the better. We have nothing in the house but backache pills.
-- _All’erta!_
-- He drones bars of Ferrando’s_aria di sortita_. The grandest number, Stephen, in the whole opera. Listen.
+- —He has nowhere to put it, you mug. Bring in our chippendale chair. Would you like a bite of something? None of your damned [[lawdeedaw]] airs here. The rich of a rasher fried with a herring? Sure? So much the better. We have nothing in the house but backache pills.
+- [_All’erta!_](((62ab407c-21d1-4086-8343-9a55b3f39548)))
+- He drones bars of Ferrando’s _aria di sortita_. The grandest number, Stephen, in the whole opera. Listen.
 - His tuneful whistle sounds again, finely shaded, with rushes of the air, his fists bigdrumming on his padded knees.
 - This wind is sweeter.
 - Houses of decay, mine, his and all. You told the Clongowes gentry you had an uncle a judge and an uncle a general in the army. Come out of them, Stephen. Beauty is not there. Nor in the stagnant bay of Marsh’s library where you read the fading prophecies of Joachim Abbas. For whom? The hundredheaded rabble of the cathedral close. A hater of his kind ran from them to the wood of madness, his mane foaming in the moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, furious dean, what offence laid fire to their brains? Paff!_Descende, calve, ut ne nimium decalveris_. A garland of grey hair on his comminated head see him me clambering down to the footpace (_descende!_), clutching a monstrance, basiliskeyed. Get down, baldpoll! A choir gives back menace and echo, assisting about the altar’s horns, the snorted Latin of jackpriests moving burly in their albs, tonsured and oiled and gelded, fat with the fat of kidneys of wheat.
