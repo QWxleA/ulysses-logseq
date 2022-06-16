@@ -205,7 +205,7 @@
  :feature/enable-timetracking? false
  :publishing/all-pages-public? true
 ;; :default-home {:page "Ulysses"} 
- :default-home {:page "Ulysses" :sidebar ["Notes" "About"]}
+ :default-home {:page "Ulysses" :sidebar ["notes" "about"]}
 
  :feature/enable-flashcards? false
 
