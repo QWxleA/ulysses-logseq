@@ -1,0 +1,2 @@
+- Jejune roughly means naive and superficial.Mulligan pokes fun at Stephen’s morose nature and the fact that he was a theology student.
+- Stephen had religious phases _Portrait of the Artist as a Young Man_.
