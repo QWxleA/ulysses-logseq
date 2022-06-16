@@ -1,0 +1,1 @@
+- any of various seaweeds found on the shore, esp any of the larger species — [Sea wrack definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/sea-wrack)
