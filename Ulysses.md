@@ -25,6 +25,6 @@
    :where
     (page-ref ?b "open topics")
     [?b :block/page ?p]
-    (namespace ?p "mxene review paper")
+    (namespace ?p "MXene Review Paper")
    ]}
    #+END_QUERY
