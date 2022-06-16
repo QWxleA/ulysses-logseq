@@ -2,4 +2,4 @@
 - Title: Ulysses
 - Author: James Joyce
 - Release Date: December 27, 2001 [eBook #4300]
-- ![cover.jpeg](../assets/cover_1655378302820_0.jpeg)
+- ![cover.jpeg](../assets/cover_1655378302820_0.jpeg){:height 413, :width 294}
