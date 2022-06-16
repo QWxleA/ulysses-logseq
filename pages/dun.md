@@ -1,0 +1,1 @@
+- A bailiff in 17th century England, Joseph Dun, was very aggressive in his debt-collecting: Stephen is musing that the face peering down at him assumes he is a debt collector.

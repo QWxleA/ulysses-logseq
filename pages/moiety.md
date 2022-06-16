@@ -1,0 +1,2 @@
+- each of two parts into which a thing is or can be divided.
+	- "the tax was to be delivered in two moieties"
