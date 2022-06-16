@@ -27,7 +27,7 @@
    :where
     (page-ref ?b "open topics")
     [?b :block/page ?p]
-    (namespace ?p "mxene review paper")
-    ;;(namespace ?p "stack analysis")
+    [(clojure.string/includes? ?p "aa")]
+    ;;[(clojure.string/includes? ?p "mxene review paper")]
    ]}
    #+END_QUERY
