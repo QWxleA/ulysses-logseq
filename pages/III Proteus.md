@@ -10,6 +10,11 @@
 		- {{youtube-timestamp 420}} Stephen is smart, confusing inside his head.
 		- {{youtube-timestamp 462}} Confusion with language, space and time. Predictions to the future (references)
 		- {{youtube-timestamp 505}} Proteus -> protein -> can change shape
+			- Mad-cow disease is connected to proteins(!)
+		- {{youtube-timestamp 568}} Start: **Ineluctable modality of the visible**
+			- In-escapable, impossible to escape from what you see -> Aristotle
+		- {{youtube-timestamp 748}} Joyce had terrible eyesight _and_ obsessive about detail -> Beethoven
+		-
 - Ineluctable modality of the visible: at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bodies before of them coloured. How? By knocking his sconce against them, sure. Go easy. Bald he was and a millionaire,_maestro di color che sanno_. Limit of the diaphane in. Why in? Diaphane, adiaphane. If you can put your five fingers through it it is a gate, if not a door. Shut your eyes and see.
 - Stephen closed his eyes to hear his boots crush crackling wrack and shells. You are walking through it howsomever. I am, a stride at a time. A very short space of time through very short times of space. Five, six: the _nacheinander_. Exactly: and that is the ineluctable modality of the audible. Open your eyes. No. Jesus! If I fell over a cliff that beetles o’er his base, fell through the _nebeneinander_ ineluctably! I am getting on nicely in the dark. My ash sword hangs at my side. Tap with it: they do. My two feet in his boots are at the ends of his legs, _nebeneinander_. Sounds solid: made by the mallet of _Los Demiurgos_. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy kens them a’.
 - Won’t you come to Sandymount, Madeline the mare?
