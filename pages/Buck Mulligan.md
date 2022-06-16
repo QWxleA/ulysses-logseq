@@ -1,0 +1,2 @@
+- Buck Mulligan is modelled after[Oliver St. John Gogarty](http://en.wikipedia.org/wiki/Oliver_St._John_Gogarty), a fellow Irish poet.
+- /ass
