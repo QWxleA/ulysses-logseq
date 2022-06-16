@@ -1,3 +1,0 @@
-- A reference to the tale of Jack and the Beanstock, in which giant Jack runs into says:
-- > Fee-fi-fo-fum,I smell the blood of an Englishman,Be he live, or be he deadI’ll grind his bones to make my bread.
--
