@@ -1,0 +1,7 @@
+- Continuing his self-aware perversion of the Eucharist, Buck Mulligan here parodies Christ’s words at the Last Supper:
+- > “And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
+- > And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;
+- > For this is my blood of the new testament, which is shed for many for the remission of sins.“ ([Matthew 26:26-28)
+- By using the feminine “Christine” rather than “Christian” Mulligan is imputing a sexuality to the holy matter: Christ as woman. He is further mocking the Christ figure to poke fun at Stephen’s intellectualism and former religious seriousness. Femininity will play a role throughout the novel as the magnetic force behind Ulysses' journey in[Homer’s_Odyssey_](https://genius.com/albums/Homer/The-odyssey)as well as Bloom’s “search” for Molly. Joyce is planting metaphorical seeds that will bear fruit later. The careful reader can rejoice in these complexities with each additional reading.
+- As Mulligan holds aloft the chalice containing (or about to contain) God’s blood,[he acknowledges](http://cas.umt.edu/english/joyce/notes/010015whitecorpuscles.htm)that some of the flecks of shaving foam are experiencing difficulty in their effort to become “white corpuscles,” the antigen-destroying part of the holy substance. When medical students encounter miracles, they like to get their facts straight.
+- Alludes to the Black Mass in which a woman’s body plays the part of the altar.

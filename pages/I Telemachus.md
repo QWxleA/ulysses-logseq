@@ -7,7 +7,7 @@
 - Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly.
 - —Back to barracks! he said sternly.
 - He added in a preacher’s tone:
-- —For this, O dearly beloved, is the genuine Christine: body and soul and blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all.
+- —[[For this, O dearly beloved, is the genuine Christine]]: body and soul and blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all.
 - He peered sideways up and gave a long slow whistle of call, then paused awhile in rapt attention, his even white teeth glistening here and there with gold points. Chrysostomos. Two strong shrill whistles answered through the calm.
 - —Thanks, old chap, he cried briskly. That will do nicely. Switch off the current, will you?
 - He skipped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds of his gown. The plump shadowed face and sullen oval jowl recalled a prelate, patron of arts in the middle ages. A pleasant smile broke quietly over his lips.
