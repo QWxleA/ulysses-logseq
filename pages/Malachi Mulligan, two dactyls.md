@@ -1,3 +1,8 @@
-- “Two Dactyls” refers to the meter that is used to pronounce his name. A [dactyl](https://genius.com/4360590) is a unit of poetic meter that has one stressed syllable followed by two unstressed syllables.
+- “Two Dactyls” refers to the meter that is used to pronounce his name. A dactyl is a unit of poetic meter that has one stressed syllable followed by two unstressed syllables.
+	- Dactyl:
+		- From the Ancient Greek_δάκτυλος_, meaning “finger”, a dactyl is a type of[foot](http://lit.genius.com/1316445)in poetic meter. In Classical verse, where it originates and is more natural, it refers to a long syllable followed by two short ones. From the opening of the_Aeneid_is:
+	- > **Arm**a vir**um**que cano…
+	- In English, it refers to a stressed syllable followed by two unstressed ones. From Robert Browning’s_The Lost Leader_:
+	- >
 - It should be noted that Malachi, (a Hebrew name) means “The Messenger”, and is the name of the[last prophet the Old Testament.](https://genius.com/1404313)
 - The dominant rhythm of Homer’s_Odyssey_is also a hexameter (six metrical feet to the line), and the dactyl is the dominant type of metrical foot employed.
