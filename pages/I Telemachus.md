@@ -14,7 +14,7 @@
 - —The mockery of it! he said gaily. Your absurd name, an ancient Greek!
 - He pointed his finger in friendly jest and went over to the parapet, laughing to himself. Stephen Dedalus stepped up, followed him wearily halfway and sat down on the edge of the gunrest, watching him still as he propped his mirror on the parapet, dipped the brush in the bowl and lathered cheeks and neck.
 - Buck Mulligan’s gay voice went on.
-- —My name is absurd too: Malachi Mulligan, two dactyls. But it has a Hellenic ring, hasn’t it? Tripping and sunny like the buck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid?
+- —My name is absurd too: [[Malachi Mulligan, two dactyls]]. But it has a Hellenic ring, hasn’t it? Tripping and sunny like the buck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid?
 - He laid the brush aside and, laughing with delight, cried:
 - —Will he come? The jejune jesuit!
 - Ceasing, he began to shave with care.

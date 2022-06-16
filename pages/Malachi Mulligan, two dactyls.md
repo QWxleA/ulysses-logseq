@@ -1,0 +1,3 @@
+- “Two Dactyls” refers to the meter that is used to pronounce his name. A [dactyl](https://genius.com/4360590) is a unit of poetic meter that has one stressed syllable followed by two unstressed syllables.
+- It should be noted that Malachi, (a Hebrew name) means “The Messenger”, and is the name of the[last prophet the Old Testament.](https://genius.com/1404313)
+- The dominant rhythm of Homer’s_Odyssey_is also a hexameter (six metrical feet to the line), and the dactyl is the dominant type of metrical foot employed.
