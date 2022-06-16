@@ -73,9 +73,6 @@
  {:block/name "now",
   :block/created-at 1655377129775,
   :block/updated-at 1655377129775}
- {:block/name "readme",
-  :block/created-at 1655377113783,
-  :block/updated-at 1655377113783}
  {:block/name "todo",
   :block/created-at 1655377129775,
   :block/updated-at 1655377129775}
