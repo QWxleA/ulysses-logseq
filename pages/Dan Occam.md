@@ -1,0 +1,1 @@
+- As in [Occam’s Razor](https://en.wikipedia.org/wiki/Occam%27s_razor) : suggested logical arguments be reduced to their simplest components.
