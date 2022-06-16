@@ -1,0 +1,2 @@
+- Go down, O bald one, lest you be made more bald
+- [4. Elisha and the Two Bears (2 Kings 2:23-25) | Bible.org](https://bible.org/seriespage/4-elisha-and-two-bears-2-kings-223-25)

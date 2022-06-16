@@ -7,3 +7,5 @@
 	- [Ulysses | Summary, Analysis, Characters, & Facts | Britannica](https://www.britannica.com/topic/Ulysses-novel-by-Joyce)
 	- [Ulysses - a tutorial, study guide, and critical commentary](https://mantex.co.uk/ulysses/)
 	- [How to Read James Joyce’s Ulysses (and Why You Should Avoid “How-to” Guides Like This One) – Biblioklept](https://biblioklept.org/2010/06/16/how-to-read-james-joyces-ulysses-and-why-you-should-avoid-how-to-guides-like-this-one/)
+	- [James Joyce | Genius](https://genius.com/artists/James-joyce)
+	- [The Joyce Project : Ulysses : Telemachus](http://m.joyceproject.com/chapters/telem.html)
