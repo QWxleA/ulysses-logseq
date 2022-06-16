@@ -1,0 +1,2 @@
+- Stephen Dedalus has quite the tension with this English student, he refers to him as the “Usurper”.
+- Further analysis of Haines: his name is a pun on the French word “la haine,” which means hate, and he is anti-Semitic.

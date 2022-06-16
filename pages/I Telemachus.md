@@ -20,7 +20,7 @@
 - Ceasing, he began to shave with care.
 - —Tell me, Mulligan, Stephen said quietly.
 - —Yes, my love?
-- —How long is Haines going to stay in this tower?
+- —How long is [[Haines]] going to stay in this tower?
 - Buck Mulligan showed a shaven cheek over his right shoulder.
 - —God, isn’t he dreadful? he said frankly. A ponderous Saxon. He thinks you’re not a gentleman. God, these bloody English! Bursting with money and indigestion. Because he comes from Oxford. You know, Dedalus, you have the real Oxford manner. He can’t make you out. O, my name for you is the best: Kinch, the knife-blade.
 - He shaved warily over his chin.
