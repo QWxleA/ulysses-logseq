@@ -19,12 +19,15 @@
 - [[About]]
 - [[Notes]]
 - [[mxene review paper/aaaa]]
+- [[Mxene Review Paper/aaaa]]
+- [[mxene review paper/aaaa/bbbb]]
 - #+BEGIN_QUERY
    {:title [:b"Open Topics MXene review paper"]
    :query [:find (pull ?b [*])
    :where
     (page-ref ?b "open topics")
     [?b :block/page ?p]
-    (namespace ?p "MXene Review Paper")
+    (namespace ?p "mxene review paper")
+    ;;(namespace ?p "stack analysis")
    ]}
    #+END_QUERY
