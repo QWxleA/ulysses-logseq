@@ -1,0 +1,1 @@
+- [Allusions in Ulysses: An Annotated List - Weldon Thornton - Google Books](https://books.google.nl/books?id=Dof6ABIIfwkC&pg=PA56&lpg=PA56&dq=Sir+Lout&source=bl&ots=npDtO8etOz&sig=ACfU3U0CM4GKjtH3zzpOqz5cHwl3_GA4nQ&hl=en&sa=X&ved=2ahUKEwi3wue5ubL4AhXQ0KQKHW0XD5gQ6AF6BAgDEAM#v=onepage&q=Sir%20Lout&f=false)

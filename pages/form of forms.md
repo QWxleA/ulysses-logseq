@@ -1,0 +1,1 @@
+- Aristotle: [Form of Forms — Blooms & Barnacles](https://www.bloomsandbarnacles.com/blog/2019/06/21/form-of-forms#:~:text=Aristotle%20likened%20this%20to%20a,is%20the%20form%20of%20forms.)
