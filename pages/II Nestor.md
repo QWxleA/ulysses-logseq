@@ -1,3 +1,5 @@
+- Video intro:
+	- {{video https://www.youtube.com/watch?v=_t87bHETiP4}}
 - —You, Cochrane, what city sent for him?
 - —Tarentum, sir.
 - —Very good. Well?

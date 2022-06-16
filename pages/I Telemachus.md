@@ -1,3 +1,5 @@
+- Video intro
+	- {{video https://www.youtube.com/watch?v=UADzFAuWT0o}}
 - Stately, plump [[Buck Mulligan]] came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:
   id:: 62ab0cea-13b2-4ab2-9d0f-c610fd0ce9b2
 - — _[[Introibo ad altare Dei]]_.
