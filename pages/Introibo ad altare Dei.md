@@ -1,4 +1,4 @@
 - Latin for:
 - “I will go up to the altar of God.” – from [Psalms 43:4](https://www.biblegateway.com/passage/?search=ps+34%3A4&version=NIV)
-- The line makes explicit that [the opening scene](https://genius.com/1685453) is a parody of Roman Catholic mass.
+- The line makes explicit that [the opening scene](((62ab0cea-13b2-4ab2-9d0f-c610fd0ce9b2))) is a parody of Roman Catholic mass.
 - Also hints at a parody of ‘the Odyssey’ which, as epics conventionally did, opens with an invocation of the Muse, the daughter of Zeus.
