@@ -352,6 +352,7 @@
 - Stephen turned away.
 - —I’m going, Mulligan, he said.
 - —Give us that key, Kinch, Buck Mulligan said, to keep my chemise flat.
+  id:: 62ab3dd7-14d8-4fd2-9a5d-ffe7fb69a293
 - Stephen handed him the key. Buck Mulligan laid it across his heaped clothes.
 - —And twopence, he said, for a pint. Throw it there.
 - Stephen threw two pennies on the soft heap. Dressing, undressing. Buck Mulligan erect, with joined hands before him, said solemnly:
