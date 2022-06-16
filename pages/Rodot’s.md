@@ -1,0 +1,1 @@
+- A patisserie at 9 Boulevard Saint-Michel in Paris (c. 1902) (Ulysses Annotated, by Don Guifford, Robert Seidman).
