@@ -27,7 +27,7 @@
    :where
     (page-ref ?b "open topics")
     [?b :block/page ?p]
-    [(clojure.string/includes? ?p "aa")]
-    ;;[(clojure.string/includes? ?p "mxene review paper")]
+    [?p :block/name ?name]
+    [(clojure.string/includes? ?p "mxene review paper")]
    ]}
    #+END_QUERY
