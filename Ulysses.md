@@ -18,3 +18,13 @@
 - [[XVIII Penelope]]
 - [[About]]
 - [[Notes]]
+- [[mxene review paper/aaaa]]
+- #+BEGIN_QUERY
+   {:title [:b"Open Topics MXene review paper"]
+   :query [:find (pull ?b [*])
+   :where
+    (page-ref ?b "open topics")
+    [?b :block/page ?p]
+    (namespace ?p "mxene review paper")
+   ]}
+   #+END_QUERY
