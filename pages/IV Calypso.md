@@ -5,7 +5,13 @@
 		- {{youtube-timestamp 216}} Bloom is smart, not educated, betters himself
 		- {{youtube-timestamp 240}} Bloom and Stephen both wordsmiths -> poet & advertising
 		- {{youtube-timestamp 268}} Molly attractive singer, spoken about, has an affair
-		-
+		- {{youtube-timestamp 360}} Molly keeps the story together
+		- {{youtube-timestamp 445}} Bloom is concerned about his daughter
+		- {{youtube-timestamp 482}} What does the cat think about me?
+			- Stephen about the dog -> dog chasing the shadow (the cave)
+			- Bloom is very different
+			- Lost son Rudy {{youtube-timestamp 625}} would have been eleven
+			-
 - Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods’ roes. Most of all he liked grilled mutton kidneys which gave to his palate a fine tang of faintly scented urine.
 - Kidneys were in his mind as he moved about the kitchen softly, righting her breakfast things on the humpy tray. Gelid light and air were in the kitchen but out of doors gentle summer morning everywhere. Made him feel a bit peckish.
 - The coals were reddening.
