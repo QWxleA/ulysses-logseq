@@ -2,6 +2,9 @@
 	- {{video https://www.youtube.com/watch?v=nlAQbtukMdY}}
 		- {{youtube-timestamp 80}} Parallel to the Odyssey, Calypso keeps prisoner
 		- {{youtube-timestamp 132}} Leopold Bloom eats weird stuff, he is not like Stephen
+		- {{youtube-timestamp 216}} Bloom is smart, not educated, betters himself
+		- {{youtube-timestamp 240}} Bloom and Stephen both wordsmiths -> poet & advertising
+		- {{youtube-timestamp 268}} Molly attractive singer, spoken about, has an affair
 		-
 - Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods’ roes. Most of all he liked grilled mutton kidneys which gave to his palate a fine tang of faintly scented urine.
 - Kidneys were in his mind as he moved about the kitchen softly, righting her breakfast things on the humpy tray. Gelid light and air were in the kitchen but out of doors gentle summer morning everywhere. Made him feel a bit peckish.
