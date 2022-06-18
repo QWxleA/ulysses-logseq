@@ -1,0 +1,1 @@
+- S. Hanlon, dairyman, 26 Lower Dorset Street (Gifford, p70).
