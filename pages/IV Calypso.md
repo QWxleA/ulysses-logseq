@@ -11,15 +11,26 @@
 			- Stephen about the dog -> dog chasing the shadow (the cave)
 			- Bloom is very different
 			- Lost son Rudy {{youtube-timestamp 625}} would have been eleven
-		- {{youtube-timestamp 710}} alcohol as the usurper of the Irish
-		- {{youtube-timestamp 795}} boyschool parallel between Stephen and Bloom
-		- {{youtube-timestamp 820}} Bloom like to look (at women)
-		- {{youtube-timestamp 900}} two usurped people, the Jews and the Irish
-			- also orange, which represents Ireland
-			- Bloom doesn't go deep in his thinking {{youtube-timestamp 1002}}
-		- {{youtube-timestamp 1018}} Letter to Molly -> usurpation of Bloom
-		- {{youtube-timestamp 1110}} chamberpot and dictionary
-			- reincarnation
+			- {{youtube-timestamp 710}} alcohol as the usurper of the Irish
+			- {{youtube-timestamp 795}} boyschool parallel between Stephen and Bloom
+			- {{youtube-timestamp 820}} Bloom like to look (at women)
+			- {{youtube-timestamp 900}} two usurped people, the Jews and the Irish
+				- also orange, which represents Ireland
+				- Bloom doesn't go deep in his thinking {{youtube-timestamp 1002}}
+			- {{youtube-timestamp 1018}} Letter to Molly -> usurpation of Bloom
+			- {{youtube-timestamp 1110}} chamberpot and dictionary
+				- reincarnation -> Calypso (!)
+			- Molly wants a book {{youtube-timestamp 1220}}
+				- Bloom is usurped everywhere
+			- {{youtube-timestamp 1284}} Card from Milly
+				- {{youtube-timestamp 1317}} parental concern
+			- {{youtube-timestamp 1340}} Bloom cares about everything and everybody -> greatest character in literature
+			- {{youtube-timestamp 1355}} Cat goes to the bed, Bloom is usurped again!
+			- {{youtube-timestamp 1412}} Bloom embraces the moment/life
+				- even the loo!
+			- {{youtube-timestamp 1450}} Chapter ends touchingly
+				- life-death cycle
+			- {{youtube-timestamp 1624}} Music "La ci darim"
 - Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods’ roes. Most of all he liked grilled mutton kidneys which gave to his palate a fine tang of faintly scented urine.
 - Kidneys were in his mind as he moved about the kitchen softly, righting her breakfast things on the humpy tray. Gelid light and air were in the kitchen but out of doors gentle summer morning everywhere. Made him feel a bit peckish.
 - The coals were reddening.
