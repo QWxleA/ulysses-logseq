@@ -1,0 +1,2 @@
+- Bloom’s key is in the trousers he wore yesterday. He forgets to retrieve it before he leaves. So, both Stephen and Bloom are keyless and locked out of their homes.
+- See how the problem is resolved in Ithaca chapter.

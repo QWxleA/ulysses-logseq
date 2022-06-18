@@ -1,0 +1,2 @@
+- ![plasto.jpeg](../assets/plasto_1655513821879_0.jpeg)
+- Advertisement for Plasto's hats, date unknown. Source: ulyssespages.blogspot.com.
